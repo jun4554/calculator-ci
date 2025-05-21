@@ -2,6 +2,9 @@ class Calculator:
     def add(self, a, b):
         return a + b
 
+    def add2(self, a, b, c):
+        return a + b + c
+
     def subtract(self, a, b):
         return a - b
 
